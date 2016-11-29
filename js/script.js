@@ -8,7 +8,6 @@ function getTriangleArea(a, h) {
 		return document.write('Pole trójkąta z podstwą: ' + a + ' oraz wysokością: ' + h + ' wynosi: ' + wynik + '<br >');
 	} else {
 		document.write('Nieprawidłowe dane');
-		console.log(wynik);
 	}
 }
 
